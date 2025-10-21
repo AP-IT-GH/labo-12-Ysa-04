@@ -1,2 +1,13 @@
 "use strict";
 
+let samsWeight = 201;
+let samsLenght = 1.45;
+let samsBmi = samsWeight / (samsLenght * samsLenght);
+
+let gerrysWeight = 90;
+let gerrysLenght = 2.05;
+let gerrysBmi = gerrysWeight / (gerrysLenght * gerrysLenght);
+
+console.log(`BMI van Sam: ${samsBmi.toFixed(0)}`);
+console.log(`BMI van Gerry: ${gerrysBmi.toFixed(0)}`);
+
