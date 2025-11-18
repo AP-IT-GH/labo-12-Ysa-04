@@ -231,7 +231,7 @@ let text =
 ```
 
 ### technische analyse
-Haal alle lottonummers uit bovenstaande tekst en zet ze in de varabele `lottoNumbers`.
+Haal alle lottonummers uit bovenstaande tekst en zet ze in de vµ0arabele `lottoNumbers`.
 
 Vervang de komma's door het pipe-symbool | en zet deze output in de variabele `formattedLottoNumbers`. Log vervolgens deze variabele. Je mag veronderstellen dat de cijfers genoteerd zijn zoals in het voorbeeld (met leidende `0` indien kleiner dan 10).
 

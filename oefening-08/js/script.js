@@ -9,4 +9,5 @@ if (result > 24) {
     result = result - 24;
 }
 console.log(`Over ${addTime} uur is het ${result} uur.`);
+// console.log(over ${addTime} is het ${(currentTime + addTime) % 24} uur.); dan hoeft de loop niet
 

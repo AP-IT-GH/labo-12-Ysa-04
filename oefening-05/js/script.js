@@ -2,7 +2,7 @@
 
 let samsWeight = 201;
 let samsLenght = 1.45;
-let samsBmi = samsWeight / (samsLenght * samsLenght);
+let samsBmi = samsWeight / (samsLenght **2);
 
 let gerrysWeight = 90;
 let gerrysLenght = 2.05;
